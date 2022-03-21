@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/machinslot/static/css/main.65405acc.css",
+    "main.js": "/machinslot/static/js/main.00e992cb.js",
+    "index.html": "/machinslot/index.html",
+    "main.65405acc.css.map": "/machinslot/static/css/main.65405acc.css.map",
+    "main.00e992cb.js.map": "/machinslot/static/js/main.00e992cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65405acc.css",
+    "static/js/main.00e992cb.js"
+  ]
+}
